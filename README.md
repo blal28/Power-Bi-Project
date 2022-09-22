@@ -1,3 +1,3 @@
 # Power-Bi-Project
 
-This project
+This project demonstrate IT Dashboard highlights information from multiple data sources.
